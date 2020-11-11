@@ -9,12 +9,10 @@ except TypeError:
 
 print('результат деления = ' + str(result))
 
-password = input("введите ваш пароль")
+password = input("Введите пароль:")
 print(password)
-
-
-
-
+a=''
+print('Вы ввели пустой пароль')
 
 
 
